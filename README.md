@@ -22,10 +22,15 @@ Complete the following practice as well.
 
 * Advanced Phase 1: Aggregates __(25 minutes)__
   * [`SUM` and `COUNT` Tutorial][aggregates tutorial1]
+  -- Have to change SQL Engine to work
+  -- Complete
   * [`SUM` and `COUNT` Quiz][aggregates quiz1]
+  -- Complete
 * Advanced Phase 2: Subqueries __(45 minutes)__
   * [Subqueries Practice][subquery tutorial1]
+  -- Complete
   * [Subqueries Quiz][subquery quiz1]
+  -- Complete
 
 [aggregates reference1]: https://sqlzoo.net/wiki/SELECT_.._GROUP_BY
 [aggregates reference2]: https://sqlzoo.net/wiki/Using_SUM,_Count,_MAX,_DISTINCT_and_ORDER_BY
